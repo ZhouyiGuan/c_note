@@ -1,0 +1,6 @@
+test1/
+!test1/*.cpp
+!test1/*.h
+!test1/*.hpp
+!test1/*.sln
+

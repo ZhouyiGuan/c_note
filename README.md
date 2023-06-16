@@ -1,0 +1,2 @@
+# c_note
+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
